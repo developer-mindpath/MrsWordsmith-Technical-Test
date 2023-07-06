@@ -4,7 +4,7 @@
 
 #### Environment Setup
 
-Rename `.env.example` to `.env` in Backend Folder. All the required variables are present there.
+Rename `.env.example` to `.env` in Folder. All the required variables are present there.
 
 
 #### Local Development Setup
